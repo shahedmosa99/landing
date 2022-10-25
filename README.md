@@ -7,7 +7,7 @@
 Landing Page
 
 
-![Oliver 3](https://user-images.githubusercontent.com/102252842/197863043-412cd26d-f492-4335-b628-ddbc741e18ff.png)
+![Oliver (1)](https://user-images.githubusercontent.com/102252842/197863534-55226e8b-407b-44dd-8c4f-ff51c95dd5de.png)
 
 https://shahedmosa99.github.io/landing/
 
